@@ -1,0 +1,8 @@
+{
+  "appId": "com.choco.todo.ionic.react",
+  "appName": "TodoIonicReact",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "build",
+  "cordova": {}
+}

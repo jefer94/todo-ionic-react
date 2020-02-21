@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TodoIonicReact</string>
+    <string name="title_activity_main">TodoIonicReact</string>
+    <string name="package_name">com.choco.todo.ionic.react</string>
+    <string name="custom_url_scheme">com.choco.todo.ionic.react</string>
+</resources>

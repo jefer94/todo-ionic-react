@@ -7,5 +7,6 @@
   display: flex;
   width: 100vw;
   height: calc(100vh - 64px);
+  overflow-y: auto;
   justify-content: center;
 }
