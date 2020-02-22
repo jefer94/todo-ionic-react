@@ -1,6 +1,6 @@
 {
   "appId": "com.choco.todo.ionic.react",
-  "appName": "TodoIonicReact",
+  "appName": "Todo Ionic React",
   "bundledWebRuntime": false,
   "npmClient": "yarn",
   "webDir": "build",
